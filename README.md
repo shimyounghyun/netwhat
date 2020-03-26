@@ -1,5 +1,4 @@
 # netwhat
-___
 - What is an IP address
 - What is a Netmask
 - What is the subnet of an IP with Netmask
