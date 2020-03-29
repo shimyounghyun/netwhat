@@ -5,9 +5,9 @@
 - What is the broadcast address of a subnet
 - What are the different ways to represent an ip address with the Netmask
 - What are the differences between public and private IPs
-- What is a class of IP addresses
-- What is TCP
-- What is UDP
+- [What is a class of IP addresses](https://github.com/shimyounghyun/netwhat/blob/master/srcs/ipClass.md)
+- [What is TCP](https://github.com/shimyounghyun/netwhat/blob/master/srcs/tcp.md)
+- [What is UDP](https://github.com/shimyounghyun/netwhat/blob/master/srcs/udp.md)
 - What are the network layers
 - [What is the OSI model](https://github.com/shimyounghyun/netwhat/blob/master/srcs/OSImodel.md)
 - What is a DHCP server and the DHCP protocol
