@@ -1,8 +1,9 @@
-# OSI 7계층
+# OSI
 - OSI는 시스템간의 연결을 위해 ISO에서 제안한 모델
 - 프로토콜을 기능별로 나눈것이다.
 - 각 계층은 하위 계층의 기능만을 이용, 상위 계층에게 기능을 제공한다.
-  
+ 
+### OSI 7계층
 ![osi7layer](./image/osi-7.png)
   
 - **응용** : 사용자가 네트워크에 접근할 수 있도록 서비스 제공
@@ -14,7 +15,7 @@
 - **물리** : 전송하는데 필요한 기능을 제공 (통신 케이블, 허브)
   
 ### TCP/IP 4계층 
-![tcp/ip4layer](./image/tcp/ip-4.png)
+![tcp/ip4layer](./image/tcp:ip-4.png)
   
 - Application Layer
    - 네트워크를 사용하는 응용프로그램(FTP, Telnet, SMTP) 등으로 이루어지며,  OSI 계층의 Application Layer와 Presentaion Layer를 모두 포함한다.

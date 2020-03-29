@@ -9,7 +9,7 @@
 - What is TCP
 - What is UDP
 - What are the network layers
-- What is the OSI model
+- [What is the OSI model](https://github.com/shimyounghyun/netwhat/blob/master/srcs/OSImodel.md)
 - What is a DHCP server and the DHCP protocol
 - What is a DNS server and the DNS protocol
 - What are the rules to make 2 devices communicate using IP addresses
