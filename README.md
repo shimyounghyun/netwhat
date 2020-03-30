@@ -1,11 +1,6 @@
 # netwhat
 - [What is an IP address](https://github.com/shimyounghyun/netwhat/blob/master/srcs/ipAddress.md)
 - What is a Netmask
-<script>
-	function (){
-		console.log('hi');
-	}();
-</script>
 - What is the subnet of an IP with Netmask
 - What is the broadcast address of a subnet
 - What are the different ways to represent an ip address with the Netmask
